@@ -1,5 +1,7 @@
 {
     "name": "wu",
+    "filename": "wu.js",
+    "version": "0.1.8",
     "description": "A lazy, functional Javascript library that ain't nuthin' ta f*ck wit.",
     "author": {
         "name": "Nick Fitzgerald",
